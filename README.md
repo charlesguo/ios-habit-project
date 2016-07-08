@@ -53,7 +53,7 @@ As a power user, I want to pick up and master 5 new habits a month so that I can
 #### Screens
 * Main Screen (Listing the Habits)
 
-![Main (when 1 habit is added)](https://www.dropbox.com/s/a7gytvvxvsjhalb/main.jpg?dl=0)
+![Main (when 1 habit is added)](images/main.jpg)
 
 Clicking the "+" icon in the upper-right brings the user to the "Create" page
 ![Creating a Habit](images/create.jpg)
@@ -68,7 +68,7 @@ Clicking on the ">" icon to the right of each habit will let the user see the hi
 ![Historical](images/habit%20%28calendar%29%20details.jpg)
 
 Clicking on "Details" will bring the user to the details page for that habit
-![Details](images/details.jpgg)
+![Details](images/details.jpg)
 
 #### External services
 * Apple Push Notification Service (https://developer.apple.com/library/ios/documentation/NetworkingInternet/Conceptual/RemoteNotificationsPG/Chapters/ApplePushService.html)
