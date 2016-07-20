@@ -71,10 +71,10 @@ Clicking on a calculation will bring the user to the respective page where the u
 
 #### Views, View Controllers, and other Classes
 * Views
-  * PropertyTableViewCell
+  * CalcTableViewCell (each cell in the TableView)
 * View Controllers
-  * PropertyTableViewController
-  * PropertyViewController
+  * CalcTableViewController (to control the display of the MAIN page)
+  * CalcViewController (the individual details page)
 * Other Classes
   * [list any other classes you will need]
 
@@ -99,20 +99,23 @@ _planing your app_
 
 #### Week 2
 _finishing a usable build_
-* [goals for the week, should be finishing a usable app]
+* segues from the tableview to the details page and back again!
 
 #### Week 3
 * [goals for the week]
 
 #### Week 4
-* [goals for the week, should be finishing all core features]
+* incorporate the calculator
 
 #### Week 5
 _starting the polish_
-* [goals for the week]
+* Work on colour scheme
+* Add the splash screen 
 
 #### Week 6
 _submitting to the App Store_
-* [goals for the week, should be finishing the polish -- demo day on Saturday!]
+* Create the app icon
+* Create the necessary screenshots
+* Choose the keywords and do the write-up.
 
 [Back to top ^](#)
