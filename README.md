@@ -53,38 +53,38 @@ Potential Feature - Export to email or other app.
 ### Technical
 
 #### Screens
-* Main Screen (Listing the Habits)
+* Main Screen (Listing the residential properties)
 
-![Main (when 1 habit is added)](images/main.jpg)
+![Main](images/main.jpg)
 
 Clicking the "+" icon in the upper-right brings the user to the "Create" page
-![Creating a Habit](images/create.jpg)
+![Creating a new calculation](images/new.jpg)
 
-If the user is at a loss as to what to name his or habit, he or she can click on suggestions to get some suggested entries:
-![Suggestions/ Tips](images/tips.jpg)
+After creating a new property calculation, the user will be brought back to the Main Screen with the new calculation added.
+![Main (added)](images/main-added.jpg)
 
-After creating a new habit, it will be shown in the Main Screen
-![Main (added)](images/main%20%28added%29.jpg)
-
-Clicking on the ">" icon to the right of each habit will let the user see the historical data for that habit
-![Historical](images/habit%20%28calendar%29%20details.jpg)
-
-Clicking on "Details" will bring the user to the details page for that habit
-![Details](images/details.jpg)
+Clicking on a calculation will bring the user to the respective page where the user can make any changes if necessary.
+![Details](images/saved.jpg)
 
 #### External services
-* Apple Push Notification Service (https://developer.apple.com/library/ios/documentation/NetworkingInternet/Conceptual/RemoteNotificationsPG/Chapters/ApplePushService.html)
+* None at the moment
 
 #### Views, View Controllers, and other Classes
 * Views
-  * [list all views you will need]
+  * PropertyTableViewCell
 * View Controllers
-  * [list all view controllers you will need]
+  * PropertyTableViewController
+  * PropertyViewController
 * Other Classes
   * [list any other classes you will need]
 
 #### Data models
-* [list all Parse data models your app will need]
+* Property.swift
+- address
+- purchase price
+- basic stamp duty
+- additional buyer's stamp duty
+- photo
 
 [Back to top ^](#)
 
