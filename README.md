@@ -23,7 +23,7 @@
 ### App Design
 
 #### Objective
-Motive motivates you to master good habits and keeps tracks of your progress so that you can achieve your goals.
+Home motivates you to master good habits and keeps tracks of your progress so that you can achieve your goals.
 
 Choose or create habits to master. Set the times to do them. Be reminded whenever there's one for you to complete. Record your progress after finishing each activity. See where you are on your road to excellence. 
 
