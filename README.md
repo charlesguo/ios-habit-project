@@ -23,26 +23,28 @@
 ### App Design
 
 #### Objective
-Home motivates you to master good habits and keeps tracks of your progress so that you can achieve your goals.
+Casacalc calculates the relevant stamp duty taxes you need to pay when buying your first, second or (lucky you!) third residential property in Singapore so that you will always be confident in knowing the total price you have to pay.
 
-Choose or create habits to master. Set the times to do them. Be reminded whenever there's one for you to complete. Record your progress after finishing each activity. See where you are on your road to excellence. 
+Enter the price you are paying to the seller. Select your tax residency status (Singapore Citizen, Permanent Resident, or foreigner) and Casacalc tells you how much you need to pay in stamp duty taxes. Save your calculations so that you can refer to them later. 
 
 #### Audience
-Anyone who wants to live a healthier (fitness goals), happier (emotional and intellectual goals), and more financially-stable (monetary goals).
+Any would-be home-buyer who needs to know how much will the new home actually end up costing him or her.
 
-Within the demographic, there is a segment of users (particularly the 20-40s age group) who have the disposable income to pay for upgrades (e.g. additional habits, journalling or "coaching" functionalities) that would improve their lives and careers. 
+The demographic consists of first-time home-buyers who may be unfamiliar with stamp duty laws, families interested in purchasing a second property for investment reasons, as well as seasoned property investors. All three groups will benefit from knowing how much they will actually have to pay in stamp duty taxes. 
 
 #### Experience
-As a normal user, I want to be able to keep track of some health- (e.g. exercise) and skills-/ knowledge- related (e.g. reading a book/ attending an online course) goals so that I can improve myself.
+As a normal user, I want to be know the breakdown of additional fees that I need to pay in addition to the purchase price.
 
-As a power user, I want to pick up and master 5 new habits a month so that I can increase my score and boast to all my friends.
+As a power user, I will shortlist several residential properties and save them so that I can refer to them later when comparing their final costs. I can also attach a photo of each property to better remember them.
+
+Potential Feature - Export to email or other app.
 
 #### List apps that are inspirational:
 
 ###### Competing Apps
-- Momentum
-- Stride
-- Productive - http://productiveapp.io
+- [UK] Stamp Duty Calculator (UK)
+- [UK] Chesterton Stamp Duty Calculator
+- SG Stamp Duty Calculator
 
 [Back to top ^](#)
 
