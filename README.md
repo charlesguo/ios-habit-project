@@ -95,24 +95,24 @@ Clicking on a calculation will bring the user to the respective page where the u
 
 #### Week 1
 _planing your app_
-* [goals for the week]
+* [FINISHED]
 
 #### Week 2
 _finishing a usable build_
-* segues from the tableview to the details page and back again!
+* segues from the tableview to the details page and back again! [FINISHED]
 
 #### Week 3
-* [goals for the week]
+* Do the necessary segues and save each calculation instance [FINISHED]
 
 #### Week 4
-* incorporate the calculator
+* incorporate the calculator [FINISHED]
 
-#### Week 5
+#### Week 5 (Jul 25th to 29th)
 _starting the polish_
 * Work on colour scheme
 * Add the splash screen 
 
-#### Week 6
+#### Week 6 (Aug 1st to 2nd)
 _submitting to the App Store_
 * Create the app icon
 * Create the necessary screenshots
